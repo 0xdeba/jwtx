@@ -1,4 +1,4 @@
-module jwtx
+module github.com/0xdeba/jwtx
 
 go 1.23
 
