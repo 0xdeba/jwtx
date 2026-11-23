@@ -1,0 +1,17 @@
+
+# Compiled binaries
+jwtx
+jwtx.exe
+
+# Build outputs
+*.out
+bin/
+dist/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
